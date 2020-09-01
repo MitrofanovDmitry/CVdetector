@@ -1,2 +1,3 @@
-# learning_git
+# CV project
+
 cv project
